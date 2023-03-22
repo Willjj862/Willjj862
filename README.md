@@ -20,5 +20,8 @@ Estudo no SESI faz 11 anos entrei no SENAI de Desenvolvimento de sistemas😎
 <br>
 ##  Ferramentas e tecnologia
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100" height="100"/>
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
