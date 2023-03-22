@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é William tenho 16 anos 
+<br>
+Estudo no SESI faz 11 anos entrei no SENAI de Desenvolvimento de sistemas😎
+<br>
+##  Ferramentas e tecnologia
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
